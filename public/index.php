@@ -1,2 +1,2 @@
 <?php
-echo "hello file index 111";
+echo "This is public file";
